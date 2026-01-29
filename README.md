@@ -27,8 +27,8 @@ A fully responsive, accessible, and production-ready dropdown navigation menu bu
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/dropdown-menu.git
-cd dropdown-menu
+git clone [https://github.com/yourusername/dropdown-menu.git](https://github.com/jabir-dev788/P3-Dropdow-menu_-Jabir-dev001.git)
+cd P3-Dropdow-menu_-Jabir-dev001
 ```
 
 2. **Open in your browser:**
@@ -156,7 +156,7 @@ Created by Jabir Zakariyyya
 
 ## 🐛 Issues & Support
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/yourusername/dropdown-menu/issues)
+Found a bug or have a suggestion? [Open an issue](https://github.com/jabir-dev788/P3-Dropdow-menu_-Jabir-dev001/issues)
 
 ---
 
